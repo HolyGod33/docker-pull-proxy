@@ -1,1 +1,1 @@
-langgenius/dify-web:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify-web:0.7.1
+postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/twlu/postgres:15-alpine
