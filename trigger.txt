@@ -1,2 +1,2 @@
-langgenius/dify-api:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify-api:0.7.1
+semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/twlu/weaviate:1.19.0
 
