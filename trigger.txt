@@ -1,6 +1,2 @@
 langgenius/dify-api:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify/dify-api:0.7.1
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/twlu/dify/weaviate:1.19.0
-langgenius/dify-web:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify/dify-web:0.7.1
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/twlu/dify/postgres:15-alpine
-langgenius/dify-sandbox:0.2.6 registry.cn-hangzhou.aliyuncs.com/twlu/dify/dify-sandbox:0.2.6
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/twlu/dify/squid:latest
+
