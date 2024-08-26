@@ -1,2 +1,2 @@
-langgenius/dify-api:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify/dify-api:0.7.1
+langgenius/dify-api:0.7.1 registry.cn-hangzhou.aliyuncs.com/twlu/dify-api:0.7.1
 
